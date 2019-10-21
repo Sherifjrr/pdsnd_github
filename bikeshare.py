@@ -177,5 +177,9 @@ def main():
 
 if __name__ == "__main__":
 	main()
-#Git project for udacity Program
-# refactoring the python codess
+#Git project for udacity Program 2019
+# refactoring the python codess of bikeshare
+# refactoring the python code bike program
+
+# refactoring the python code 2
+# for refacoting in git project 1
